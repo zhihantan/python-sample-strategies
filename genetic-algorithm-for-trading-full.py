@@ -14,7 +14,7 @@ from tqdm import trange
 from pathlib import Path
 
 
-ALPHA_VANTAGE_DIR_PATH = Path("Path/to/folder/where/you/store/your/data")
+ALPHA_VANTAGE_DIR_PATH = Path('/data')
 SECRET = "demo"
 
 
